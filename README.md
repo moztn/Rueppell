@@ -9,8 +9,18 @@ Static Website Generator are used to generate static webpages by taking plain fi
 We're still looking for one ! Jekyll is ruled out for now, but no worries, so many more are available !
 ### How to get involved
 1. Read this Readme.md. (And that's done !)
-2. Watch this project.
+2. Watch this project and fork it.
 3. Take a look at the "Issues" tab for more information on the current and coming steps you're willing to contribute to.
 4. (Optional) Send an e-mail to one of the Mozilla Tunisia Coding team coach if you need help getting started or have questions :  
   * Ahmed Nefzaoui : nefzaoui@arabicmozilla.org
   * Mohamed Manai (Mack) email : mannai.med.mack@gmail.com
+
+## Technical instructions
+### Project Structure
+
+### Setting up the environment
+
+### Testing
+
+### External Documentation
+
